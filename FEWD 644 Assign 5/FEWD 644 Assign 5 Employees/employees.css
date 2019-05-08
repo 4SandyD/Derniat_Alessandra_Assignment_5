@@ -1,0 +1,45 @@
+label {
+  float: left;
+  width: 5em;
+  text-align: right;
+}
+
+input {
+  margin-left: 1em;
+  margin-bottom: .5em;
+}
+
+#button {
+  margin-left: 15.75em;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 75%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: .2em .7em;
+}
+
+th, td {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+thead {
+  background-color: rgb(30, 178, 228);
+  color: white;
+}
+
+#btnDel {
+  background-color: navy;
+  color: white;
+  font-size: .6em;
+}
